@@ -9,4 +9,4 @@ For questions or issues please use the [Google Group](https://groups.google.com/
 
 Download weight on http://pjreddie.com/darknet
 
-Run 
+Run ui.py in folder python to show the Interface
