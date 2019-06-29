@@ -9,4 +9,4 @@ For questions or issues please use the [Google Group](https://groups.google.com/
 
 Download weight on http://pjreddie.com/darknet
 
-R
+Run 
